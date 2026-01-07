@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher
+drawable widget_background
+drawable widget_button_bg
+id btn_drive
+id btn_meet
+id btn_off
+id btn_sleep
+id btn_water_minus
+id btn_water_plus
+id widget_root
+id widget_status
+id widget_task1
+id widget_task2
+id widget_task3
+id widget_task4
+id widget_task5
+id widget_title
+id widget_water_text
+layout widget_consolidated
+layout widget_donow
+layout widget_focus_mode
+layout widget_tasks
+string app_name
+style Theme.LifeOS
+xml backup_rules
+xml data_extraction_rules
+xml widget_consolidated_info
+xml widget_donow_info
+xml widget_focus_mode_info
+xml widget_tasks_info

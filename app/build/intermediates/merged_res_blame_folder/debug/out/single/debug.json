@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\layout_widget_consolidated.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\layout\\widget_consolidated.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\xml_widget_consolidated_info.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\xml\\widget_consolidated_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\layout_widget_focus_mode.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\layout\\widget_focus_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\xml_widget_donow_info.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\xml\\widget_donow_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\layout_widget_donow.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\layout\\widget_donow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\drawable_widget_background.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\drawable\\widget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\xml_widget_focus_mode_info.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\xml\\widget_focus_mode_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\drawable_widget_button_bg.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\drawable\\widget_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\xml_widget_tasks_info.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\xml\\widget_tasks_info.xml"
+    },
+    {
+        "merged": "com.example.lifeos.app-merged_res-63:/layout_widget_consolidated.xml.flat",
+        "source": "com.example.lifeos.app-main-65:/layout/widget_consolidated.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-merged_res-63:\\layout_widget_tasks.xml.flat",
+        "source": "C:\\Users\\Adity\\.gradle\\daemon\\8.9\\com.example.lifeos.app-main-65:\\layout\\widget_tasks.xml"
+    }
+]

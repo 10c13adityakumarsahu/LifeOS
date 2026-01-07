@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_background"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/widget_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LifeOS"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="8dp">
+
+        <TextView
+            android:id="@+id/widget_water_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Water: --"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp"/>
+
+        <ImageButton
+            android:id="@+id/btn_water_minus"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@android:drawable/ic_menu_delete"
+            android:tint="#FFFFFF"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="Minus" />
+
+        <ImageButton
+            android:id="@+id/btn_water_plus"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@android:drawable/ic_input_add"
+            android:tint="#FFFFFF"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="Plus" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/widget_task1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Loading tasks..."
+        android:textSize="14sp"
+        android:textColor="#FFFFFF"
+        android:maxLines="1"
+        android:ellipsize="end" />
+
+    <TextView
+        android:id="@+id/widget_task2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text=""
+        android:textSize="14sp"
+        android:textColor="#DDDDDD"
+        android:maxLines="1"
+        android:ellipsize="end" />
+
+    <TextView
+        android:id="@+id/widget_task3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text=""
+        android:textSize="14sp"
+        android:textColor="#DDDDDD"
+        android:maxLines="1"
+        android:ellipsize="end" />
+
+</LinearLayout>
